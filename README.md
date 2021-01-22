@@ -1,13 +1,13 @@
 # css-framework-challenge
 
 ### URL of the project :
-Upcoming
+https://laetitiagullo.github.io/css-framework-challenge/
 
 ### Date of realization :
 January 2021
 
 ### Status :
-In progress
+Completed project
 
 ### Type of project :
 Exercise
