@@ -25,5 +25,8 @@ Project carried out as part of the "Junior web developer" training [@ BeCode](ht
 ### Instructions link :
 [Click here](https://github.com/becodeorg/LIE-Jepsen-4.27/blob/master/01-the-field/04-html-css/02-css/06-css-frameworks/01.exercise-grid-away.md)
 
+### Contributor :
+Project realised with the help of [Maxime Bottelberghe](https://github.com/Maxime-Bott)
+
 ### Images of the project :
-Upcoming
+![Screenshot of the project](Screenshot.png)
